@@ -1,0 +1,2 @@
+# BSTVisualizer
+BST Visualization application
